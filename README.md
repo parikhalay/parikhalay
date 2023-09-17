@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Alay Parikh</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-- 🔭 I’m currently enrolled in **Masters in Applied Computer Science**
+- 🔭 I’m currently enrolled in **Masters in Applied Computer Science at Concordia University.**
 
 - 🌱 I’m currently learning **Data Structures and Algorithms**
 
