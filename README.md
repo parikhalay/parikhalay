@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **parikh.alay58@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1FwdLkR0xi82MMGIHtzuUHbML4NH-tpcB/view?usp=sharing](https://drive.google.com/file/d/1FwdLkR0xi82MMGIHtzuUHbML4NH-tpcB/view?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1FwdLkR0xi82MMGIHtzuUHbML4NH-tpcB/view?usp=sharing](https://drive.google.com/file/d/108Pz6aC4qZGf-tlEXfkAwa69TiwgjJbH/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
