@@ -19,9 +19,18 @@
 - 🔭 Passionate about **AI, UI/UX, and Scalable Systems**  
 ---
 
-### 💼 Featured Work Experience
-- **Software Developer @ BassiliChat Inc.** – Built a real-time **AI chat platform** using React, Node.js & PostgreSQL with Stripe billing & OAuth.  
-- **Software Developer @ Adare Food Ingredients** – Developed an **inventory & employee portal system** with Node, React, PostgreSQL & AWS Lambda, improving stock accuracy by 97%.  
+### 💼 Work Experience
+**Software Developer @ BassiliChat Inc. (Feb 2025 - Present) **  
+- Contributed to the development of a growing SaaS platform.  
+- Improved system performance and responsiveness for end-users.  
+- Helped streamline deployment and release cycles to support business growth.  
+- Collaborated with a small team to deliver new product features and enhance reliability.  
+
+**Software Developer @ Adare Food Ingredients (Sept 2022 - Aug 2023) **  
+- Supported digital transformation by modernizing internal systems.  
+- Improved accuracy and efficiency of operational processes.  
+- Reduced manual errors by automating workflows and reporting.  
+- Worked cross-functionally to ensure smooth adoption of new tools.  
 
 ---
 
@@ -54,8 +63,7 @@
 ### 🌐 Connect With Me
 <p align="center">
   <a href="https://linkedin.com/in/parikhalay"><img src="https://img.icons8.com/color/48/linkedin.png"/></a>
-  <a href="mailto:alayparikh11@gmail.com"><img src="https://img.icons8.com/color/48/gmail.png"/></a>
-  <a href="https://instagram.com/alay_parikh"><img src="https://img.icons8.com/fluency/48/instagram-new.png"/></a>
+  <a href="mailto:alayparikh11@gmail.com"><img src="https://img.icons8.com/color/48/gmail.png"/></a
 </p>
 
 ---
