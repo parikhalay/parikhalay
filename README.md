@@ -8,7 +8,9 @@
   </a>
   <a href="mailto:alayparikh11@gmail.com"><img src="https://img.shields.io/badge/-alayparikh11%40gmail.com-red?style=flat&logo=Gmail&logoColor=white"/></a>
   <a href="https://parikhalay.github.io/portfolio/"><img src="https://img.shields.io/badge/-Portfolio-black?style=flat&logo=vercel&logoColor=white"/></a>
-  <a href="https://github.com/parikhalay"><img src="https://img.shields.io/github/followers/parikhalay?label=Follow&style=social"/></a>
+  <a href="https://github.com/parikhalay">
+    <img src="https://komarev.com/ghpvc/?username=parikhalay&label=Profile%20views&color=0e75b6&style=flat" alt="parikhalay" />
+  </a>
 </p>
 
 ---
