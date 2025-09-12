@@ -1,6 +1,6 @@
 <!-- Banner -->
 <h1 align="center">Hey 👋, I'm Alay Parikh</h1>
-<h3 align="center">Software Developer | Full-Stack Engineer | DSA Enthusiast</h3>
+<h3 align="center">Software Developer | Full-Stack Engineer | Front End Developer</h3>
 
 <p align="center">
   <a href="https://linkedin.com/in/parikhalay">
