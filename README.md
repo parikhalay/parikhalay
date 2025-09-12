@@ -1,82 +1,64 @@
-<h1 align="center">Hi 👋, I'm Alay Parikh</h1>
-<h3 align="center">🚀 Software Developer | Full-Stack Engineer | Problem Solver</h3>
+<!-- Banner -->
+<h1 align="center">Hey 👋, I'm Alay Parikh</h1>
+<h3 align="center">Software Developer | Full-Stack Engineer | DSA Enthusiast</h3>
 
 <p align="center">
-  <a href="https://github.com/parikhalay">
-    <img src="https://komarev.com/ghpvc/?username=parikhalay&label=Profile%20views&color=0e75b6&style=flat" alt="profile views"/>
-  </a>
-  <a href="https://linkedin.com/in/parikhalay">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="mailto:alayparikh11@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://parikhalay.github.io/portfolio/">
-    <img src="https://img.shields.io/badge/Portfolio-000?style=flat&logo=vercel&logoColor=white"/>
-  </a>
+  <a href="https://linkedin.com/in/parikhalay"><img src="https://img.shields.io/badge/-Alay%20Parikh-blue?style=flat&logo=Linkedin&logoColor=white"/></a>
+  <a href="mailto:alayparikh11@gmail.com"><img src="https://img.shields.io/badge/-alayparikh11%40gmail.com-red?style=flat&logo=Gmail&logoColor=white"/></a>
+  <a href="https://parikhalay.github.io/portfolio/"><img src="https://img.shields.io/badge/-Portfolio-black?style=flat&logo=vercel&logoColor=white"/></a>
+  <a href="https://github.com/parikhalay"><img src="https://img.shields.io/github/followers/parikhalay?label=Follow&style=social"/></a>
 </p>
 
 ---
 
-### 🎓 Education
-- **Masters of Applied Computer Science** – Concordia University (2023 – 2025)  
-  *Teaching Assistant (COMP 6481) – Mentored 100+ students in Java programming and problem solving.*  
-- **Bachelor of Engineering in Computer Engineering** – Gujarat Technological University (2019 – 2023)
+### 🚀 About Me  
+- 🎓 Master’s student in **Applied Computer Science @ Concordia University (2023–2025)**  
+- 💻 Experienced in **Full-Stack Development** (React, Node.js, Spring Boot, Angular)  
+- 🔭 Passionate about **AI, Cloud, and Scalable Systems**  
+- 🧩 Practicing **Data Structures & Algorithms** in Java (LeetCode, HackerRank)  
+- 🌱 Currently learning **System Design & Advanced Backend Patterns**  
 
 ---
 
-### 💼 Work Experience
-**Software Developer @ BassiliChat Inc.** (2025 – Present, Montreal, QC)  
-- Built a full-stack conversational AI platform using **React + Node.js**.  
-- Implemented **real-time AI response streaming** via WebSockets & SSE, cutting latency by 50%.  
-- Designed secure **RESTful APIs + PostgreSQL schema** with JWT & Google OAuth.  
-- Managed subscriptions for 200+ users with **Stripe API** and robust password reset flows.  
-- Automated deployments with **Docker + CI/CD pipelines**.
-
-**Software Developer @ Adare Food Ingredients** (2022 – 2023, Anand, GJ)  
-- Developed an **inventory & batch tracking system** with Node, TypeScript & PostgreSQL (stock accuracy ↑ 97%).  
-- Built a **React + TypeScript employee portal** with role-based access, reducing manual requests by 20%.  
-- Integrated **REST + GraphQL APIs** with ERP & logistics for real-time data consistency.  
-- Automated reports with **Python + AWS Lambda**, reducing reporting time by 70%.  
-- Containerized apps with **Docker & GitLab CI/CD**, enabling 2× faster releases.
+### 💼 Featured Work Experience
+- **Software Developer @ BassiliChat Inc.** – Built a real-time **AI chat platform** using React, Node.js & PostgreSQL with Stripe billing & OAuth.  
+- **Software Developer @ Adare Food Ingredients** – Developed an **inventory & employee portal system** with Node, React, PostgreSQL & AWS Lambda, improving stock accuracy by 97%.  
 
 ---
 
-### 🚀 Projects
-🔹 **[BassiliChat](http://www.bassilichat.com/)** – Multi-model AI chat platform with real-time streaming, Stripe billing, and conversation history persistence.  
-
-🔹 **[Mapify](https://github.com/parikhalay/Mapify)** – A MERN-based social platform for sharing location-based content with **JWT authentication**, role-based access, and secure image upload.  
-
-🔹 **[Eventify](https://github.com/parikhalay/Eventify)** – Cloud-based event management system using **AWS (Elastic Beanstalk, API Gateway, DynamoDB, S3)** with auto-deployment via CloudFormation.  
+### 🌟 Highlight Projects
+🔹 [**BassiliChat**](http://www.bassilichat.com/) – Multi-model AI chat platform with WebSocket streaming, Stripe billing & React Native app.  
+🔹 [**Mapify**](https://github.com/parikhalay/Mapify) – MERN-based location-sharing social platform with JWT auth & image upload.  
+🔹 [**Eventify**](https://github.com/parikhalay/Eventify) – Cloud-native event management system using AWS Elastic Beanstalk, API Gateway, DynamoDB & S3.  
 
 ---
 
-### 🛠️ Technical Skills
-**Languages:** JavaScript, TypeScript, Java, Python, SQL, HTML5, CSS3  
-**Frameworks:** React, Redux, Node.js (Express), Angular, Next.js, Spring Boot/MVC, Tailwind CSS  
-**Databases:** MySQL, MongoDB, PostgreSQL, DynamoDB  
-**Cloud & DevOps:** AWS, Azure, Docker, GitLab CI/CD, Jenkins  
-**Concepts:** Data Structures & Algorithms, OOP, Agile (Scrum), SOLID, MVC, SDLC  
+### 🛠️ Tech Stack
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,redux,js,ts,html,css,bootstrap,tailwind,nodejs,express,java,spring,python,c,cpp,mysql,postgres,mongodb,firebase,aws,docker,git,figma,postman" />
+</p>
 
 ---
 
-### 📊 GitHub Stats
+### 📊 GitHub Analytics
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=parikhalay&show_icons=true&theme=tokyonight" width="48%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=parikhalay&theme=tokyonight" width="48%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=parikhalay&theme=tokyonight" width="48%"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=parikhalay&show_icons=true&locale=en&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=parikhalay&layout=compact&theme=tokyonight"/>
 </p>
 
 ---
 
-### 🌟 Fun Facts
-- 🧩 Passionate about **DSA in Java** – actively solving problems on LeetCode.  
-- 🎨 Strong interest in **UI/UX** – I enjoy making apps look professional & user-friendly.  
-- ⚡ Thrive in startup environments – love building things from scratch!  
+### 🌐 Connect With Me
+<p align="center">
+  <a href="https://linkedin.com/in/parikhalay"><img src="https://img.icons8.com/color/48/linkedin.png"/></a>
+  <a href="mailto:alayparikh11@gmail.com"><img src="https://img.icons8.com/color/48/gmail.png"/></a>
+  <a href="https://instagram.com/alay_parikh"><img src="https://img.icons8.com/fluency/48/instagram-new.png"/></a>
+</p>
 
 ---
 
-⭐️ From [Alay Parikh](https://github.com/parikhalay)
+🔥 *"Always building. Always learning."* 🚀
