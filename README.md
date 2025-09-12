@@ -16,7 +16,7 @@
 ---
 
 ### 🚀 About Me  
-- 🎓 Master’s graduate in **Applied Computer Science @ Concordia University (2023–2025)**  
+- 🎓 Master’s graduate in **Applied Computer Science @ Concordia University, Montreal, Canada. (2023–2025)**  
 - 💻 Experienced in **Full-Stack Development** (React, Node.js, Spring Boot, Angular)  
 - 🔭 Passionate about **AI, UI/UX, and Scalable Systems**  
 ---
