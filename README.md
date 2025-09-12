@@ -3,7 +3,9 @@
 <h3 align="center">Software Developer | Full-Stack Engineer | DSA Enthusiast</h3>
 
 <p align="center">
-  <a href="https://linkedin.com/in/parikhalay"><img src="https://img.shields.io/badge/-Alay%20Parikh-blue?style=flat&logo=Linkedin&logoColor=white"/></a>
+  <a href="https://linkedin.com/in/parikhalay">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white"/>
+  </a>
   <a href="mailto:alayparikh11@gmail.com"><img src="https://img.shields.io/badge/-alayparikh11%40gmail.com-red?style=flat&logo=Gmail&logoColor=white"/></a>
   <a href="https://parikhalay.github.io/portfolio/"><img src="https://img.shields.io/badge/-Portfolio-black?style=flat&logo=vercel&logoColor=white"/></a>
   <a href="https://github.com/parikhalay"><img src="https://img.shields.io/github/followers/parikhalay?label=Follow&style=social"/></a>
@@ -12,12 +14,9 @@
 ---
 
 ### 🚀 About Me  
-- 🎓 Master’s student in **Applied Computer Science @ Concordia University (2023–2025)**  
+- 🎓 Master’s graduate in **Applied Computer Science @ Concordia University (2023–2025)**  
 - 💻 Experienced in **Full-Stack Development** (React, Node.js, Spring Boot, Angular)  
-- 🔭 Passionate about **AI, Cloud, and Scalable Systems**  
-- 🧩 Practicing **Data Structures & Algorithms** in Java (LeetCode, HackerRank)  
-- 🌱 Currently learning **System Design & Advanced Backend Patterns**  
-
+- 🔭 Passionate about **AI, UI/UX, and Scalable Systems**  
 ---
 
 ### 💼 Featured Work Experience
