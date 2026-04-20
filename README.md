@@ -23,19 +23,19 @@
 
 ### 💼 Work Experience
 
-** Systems Developer @ Promenaid (Oct 2025 - Present) **  
+##### Systems Developer @ Promenaid (Oct 2025 - Present) 
 - Led full-cycle development of a rule-based QR-driven instruction generation platform, directly supporting the construction industry’s need for real-time instruction workflows  
 - Architected a modular, data-driven system mapping product components to reusable instruction modules, enabling thousands of configurations with high scalability, maintainability, and decreased customer queries by 20%. 
 - Created a full-stack project management portal integrating CRM and ERP APIs, enabling the operations team to manage 200+ high-value client accounts by providing quote versioning and single source of truth.  
 - Collaborated with cross-functional teams to translate complex business requirements into discrete engineering tasks, prioritizing scalability and maintainability while reducing customer support queries by 20%.
 
 
-** Software Developer @ BassiliChat Inc. (Feb 2025 - Oct 2025) **  
+##### Software Developer @ BassiliChat Inc. (Feb 2025 - Oct 2025)   
 - Developed end-to-end full-stack AI Comparison platform, from architecture and API design to deployment and monitoring, ensuring production reliability and scalability for 1000+ users.
 - Reduced latency by 50% by implementing WebSockets & SSE for real-time multi-model chat streaming.  
 - Implemented i18n translations, Google OAuth 2.0 login and Stripe API billing increasing user engagement by 50%.
 
-** Software Developer @ Adare Food Ingredients (Sept 2022 - Aug 2023) **  
+##### Software Developer @ Adare Food Ingredients (Sept 2022 - Aug 2023)  
 - Introduced an inventory and batch tracking system, introducing barcode scanning and improving stock accuracy to 97%, while reducing manual errors by 20%.  
 - Collaborated with cross-functional teams to review code and deliver high-quality, incremental production updates.  
 - Established a high standard of code quality by automated testing suites using Jest, ensuring 99% test coverage.
